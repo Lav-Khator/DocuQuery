@@ -1,0 +1,10 @@
+flask
+PyMuPDF
+groq
+langchain
+langchain-text-splitters
+langchain-community
+faiss-cpu
+sentence-transformers
+python-dotenv
+gunicorn
